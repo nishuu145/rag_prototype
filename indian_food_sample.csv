@@ -1,0 +1,27 @@
+dish_name,calories_kcal_per_100g,protein_g,carbs_g,fat_g,category
+Poha,180,4,32,5,breakfast
+Idli,120,4,24,0.5,breakfast
+Dosa (plain),168,4,28,4,breakfast
+Upma,150,4,24,4,breakfast
+Paratha (plain),260,6,36,10,bread
+Roti (chapati),120,3,24,1,bread
+Naan,310,9,50,8,bread
+Steamed rice,130,2.7,28,0.3,staple
+Dal (toor/moong),116,7,17,3,curry
+Rajma (kidney bean curry),140,8,18,4,curry
+Chole (chickpea curry),164,8,20,7,curry
+Paneer butter masala,240,11,10,18,curry
+Palak paneer,180,9,7,13,curry
+Chicken curry,180,17,6,10,curry
+Butter chicken,240,18,8,15,curry
+Egg curry,160,11,5,11,curry
+Biryani (chicken),200,10,22,8,rice
+Pulao (vegetable),150,4,25,4,rice
+Samosa,308,5,32,18,snack
+Pakora (vegetable),250,5,22,16,snack
+Vada pav,290,6,35,13,snack
+Curd (dahi),60,3.5,4.5,3.3,dairy
+Paneer,265,18,1.2,21,dairy
+Gulab jamun,150,3,25,5,dessert
+Kheer,140,3,20,5,dessert
+Banana,89,1.1,23,0.3,fruit
